@@ -6,7 +6,7 @@
 // This can be used to set the Particles Effects. Check README for more details!
 document.addEventListener('DOMContentLoaded', function () {
   particleground(document.getElementById('particles'), {
-    dotColor: '#efff3d',
+    dotColor: '#ffffff',
     lineColor: '#ffffff'
   });
   var intro = document.getElementById('intro');
